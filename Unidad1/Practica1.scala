@@ -14,7 +14,14 @@ def numeroprimo(n :Int) : Boolean =
 }
 //3. Dada la variable bird = "tweet", utiliza interpolación de string para
 // imprimir "Estoy escribiendo un tweet"
-
+var bird = "tweet"
+println ("Estoy escribiendo un " + bird)
 //4. Dada la variable mensaje = "Hola Luke yo soy tu padre!" utiliza slilce para extraer la // secuencia "Luke"
+var mensaje= "Hola Luke yo soy tu padre!" 
+mensaje slice (5,9)
 //5. ¿Cuál es la diferencia entre value y una variable en scala?
+val noMutable = 3.1416 
+var Mutable = "Hello world!"
 //6. Dada la tupla (2,4,5,1,2,3,3.1416,23) regresa el número 3.1416 
+val tupla=(2,4,5,1,2,3,3.1416,23)
+println(tupla._7)
