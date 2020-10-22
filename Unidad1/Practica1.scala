@@ -1,4 +1,4 @@
-//1-.We perform an algorithm to calculate the radius of a circle 
+<b>//1-.We perform an algorithm to calculate the radius of a circle 
 val a =3
     val r = math.sqrt(a/math.Pi)
 //2. We perform an algorithm to determine if a number is a prime
