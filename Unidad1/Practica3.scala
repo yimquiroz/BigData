@@ -1,4 +1,4 @@
-/practice 3
+//practice 3
 
 //1. Declare a List called listEvens made up of Integers and return a String.
 def listEvens(list:List[Int]): String ={
