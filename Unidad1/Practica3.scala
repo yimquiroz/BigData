@@ -1,7 +1,7 @@
 //practice 3
 
 //1. Declare a List called listEvens made up of Integers and return a String.
-def listEvens(list:List[Int]): String ={
+<b>def listEvens(list:List[Int]): String ={
 //2.In a for loop as long as the value is less than the list
     for(n <- list){
         //3.If the remainder of N is equal to 0, it will print that the number in the list is even
