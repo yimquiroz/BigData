@@ -1,5 +1,5 @@
 //practice 3
-
+//-------------------EJERCICIO 1-------------------//
 //1. Declare a List called listEvens made up of Integers and return a String.
 def listEvens(list:List[Int]): String ={
 //2.In a for loop as long as the value is less than the list
@@ -20,8 +20,9 @@ val l2 = List(4,3,22,55,7,8)
 listEvens(l)
 listEvens(l2)
 
-//1.A list named "afortunado" is declared made up of integers as well as its return
 
+//-------------------EJERCICIO 2-------------------//
+//1.A list named "afortunado" is declared made up of integers as well as its return
 def afortunado(list:List[Int]): Int={
     //2.Variable called res is generated, assigning it an initial value of 0
     var res=0
@@ -42,6 +43,8 @@ val af= List(1,7,7)
 //
 println(afortunado(af))
 
+
+//-------------------EJERCICIO 3-------------------//
 //1. A function called balance is declared that will have as a parameter a List made up of
 // Integers and returns a Boolea
 def balance(list:List[Int]): Boolean={
@@ -73,10 +76,7 @@ balance(bl3)
 n.
 
 
-
-
-
-
+//-------------------EJERCICIO 4-------------------//
 //1.A list named "palindromo" is declared made up of string as well as its return boolean
 def palindromo(palabra:String):Boolean ={
     //It will return the result of comparing the word value with the same but in reverse 
