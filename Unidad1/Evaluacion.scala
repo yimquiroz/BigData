@@ -9,10 +9,10 @@ val df = spark.read.option("header","true").option("inferSchema","true").csv("Ne
 df.columns
 
 //4-.Cómo es el esquema
-df.printSchema()
+df.printSchema() //caracteristicas de las columnas
 
 //5-.Imprime las primeras 5 columnas
-df.head(5)
+df.head(5) 
 
 //6-.Usa describe() para aprender sobre el DataFrame
 df.describe().show() //devuelve la información de metadatos básica de una función existente.
