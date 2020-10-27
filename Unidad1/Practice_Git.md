@@ -19,7 +19,7 @@ _DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN_
 
 <b>NOMBRE DEL PROFESOR (A): M.C.José Christian Romero Hernández
 
-Pratica GitFlow
+Practica GitFlow
 1. *Configure your github account with SHH key, so as not to put our username and password every time.*
 2. *Create a new repository called pratica_git_flow.*
 3. *Create a default README.*
