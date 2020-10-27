@@ -1,4 +1,4 @@
-# TECNOLÓGICO​ ​NACIONAL​ ​DE​ ​MÉXICO
+-# TECNOLÓGICO​ ​NACIONAL​ ​DE​ ​MÉXICO
 <b>_INSTITUTO TECNOLÓGICO DE TIJUANA_</b>
 
 
@@ -37,8 +37,3 @@ No es algo que pueda obligar a su equipo a hacerlo. Es una práctica muy social 
 <b>Referencias</b>
 -  Programación en pareja. (2020, 17 de marzo). Wikipedia, La enciclopedia libre. Fecha de consulta: octubre 10, 2020 desde https://es.wikipedia.org/w/index.php?title=Programaci%C3%B3n_en_pareja&oldid=124331580.
 - Reclu IT. (2019). ¿Qué ventajas ofrece la programación en pareja?. octubre 09,2020, de Reclu IT Sitio web: https://recluit.com/que-ventajas-ofrece-la-programacion-en-pareja/#.X4E0iGhKjIU
-
-
-
-   .
-
