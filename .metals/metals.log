@@ -1,0 +1,8 @@
+2020.10.26 20:44:21 INFO  started: Metals version 0.9.4 in workspace 'C:\Users\ASUS S510U\OneDrive\Documentos\8vo Semestre\Datos_Masivos\MiGit\BigData' for client vscode.
+2020.10.26 20:44:22 INFO  time: initialize in 1.05s
+2020.10.26 20:44:24 WARN  no build tool detected in workspace 'C:\Users\ASUS S510U\OneDrive\Documentos\8vo Semestre\Datos_Masivos\MiGit\BigData'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.26 20:44:30 INFO  no build target: using presentation compiler with only scala-library
+2020.10.26 20:44:30 WARN  no build target for: C:\Users\ASUS S510U\OneDrive\Documentos\8vo Semestre\Datos_Masivos\MiGit\BigData\Unidad1\Practica5.scala
+oct 26, 2020 8:46:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTraceNotification
+2020.10.26 21:01:24 INFO  shutting down Metals
