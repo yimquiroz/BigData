@@ -41,3 +41,9 @@ Pearson's correlation.
 5. Formula used
 *Pearson's correlation coefficient is defined by the following expression:*
 That is, the Pearson correlation coefficient refers to the mean of the cross products of the standardized scores of X and Y. This formula has some properties that make it preferable to others. To operate with standardized scores is a scale-free index of measurement. On the other hand, its value oscillates, as already indicated, in absolute terms, between 0 and 1.
+
+<b>Referencias</b>
+Question Pro. (2020). ¿Qué es el coeficiente de correlación de Pearson?. octubre 19,2020, de Question Pro Sitio web: https://www.questionpro.com/blog/es/coeficiente-de-correlacion-de-pearson/
+Desconocido. (2018). oeficiente de correlación de Pearson. octubre 19,2020, de UV Sitio web: https://www.uv.es/webgid/Descriptiva/tema_5_correlacin.html
+Personal. (2019). Coeficiente de correlación lineal de Pearson . octubre 19,2020, de Personal Sitio web: https://personal.us.es/vararey/adatos2/correlacion.pdf
+
