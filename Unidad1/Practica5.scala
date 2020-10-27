@@ -11,17 +11,17 @@ val simpleData = Seq (
     ("Alonso","Marketing","NY",91000,50,21000)
 )
 val df= simpleData.toDF("employee","department","state","salary","age","bonus")
-// 1. Show the info in the DataFrame
+// 1-. Show the info in the DataFrame
 df.show()
-// 2. Order by department and state
+// 2-. Order by department and state
 df.orderBy("department","state").show(false)
-// 3. Return the first element 
+// 3-. Return the first element 
 df.select(first("employee")).show() 
 // 4. Return the number of elements 
 df.select(approx_count_distinct("state")).show()
-// 5. Return the max value
+// 5-. Return the max value
 df.select(max("salary")).show() 
-// 6. Return the avg
+// 6-. Return the avg
 df.select(avg("salary")).show() 
-// 7. Return the last element
+// 7-. Return the last element
 df.select(last("employee")).show()
