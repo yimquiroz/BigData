@@ -25,3 +25,19 @@ df.select(max("salary")).show()
 df.select(avg("salary")).show() 
 // 7-. Return the last element
 df.select(last("employee")).show()
+// 8. Return pearson's correlation coefficient
+ df.select(corr("salary","bonus")).show()
+ // 9. Filter range
+ df.filter("age > 50").show
+// 10. Return a specific number of lines in list form 
+ df.takeAsList(6)
+ // 11. Return the first row
+ df.first()
+ // 12. return the sum of the bond column
+ df.select(sum("bonus")).show()
+ // 13. Returns the sum of the different values ​​of the column “salary”
+ df.select(sumDistinct("salary")).show()
+ // 14. Show the existent columns
+ df.printSchema()
+ // 15.Return the minime value of the column 
+ df.select(min("salary")).show()
