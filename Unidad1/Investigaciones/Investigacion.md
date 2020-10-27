@@ -26,6 +26,8 @@ Tijuana Baja California  19 de octubre de 2020.
 Pearson's correlation.
 
 1. What is it?
+
+
 It is a test that measures the statistical relationship between two continuous variables. If the association between the elements is not linear, then the coefficient is not adequately represented.
 
 2. Features
