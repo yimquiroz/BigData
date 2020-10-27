@@ -12,6 +12,7 @@ TÍTULO:​
 Correlación de Pearson
 NOMBRE DEL PROFESOR (A):
 M.C.José Christian Romero Hernández
+
 Tijuana Baja California  19 de octubre de 2020.
 
 
