@@ -20,4 +20,14 @@ _DEPARTAMENTO DE SISTEMAS Y COMPUTACIÓN_
 <b>NOMBRE DEL PROFESOR (A): M.C.José Christian Romero Hernández
 
 Pratica GitFlow
-Configurar su cuenta de github con llave SHH, para no poner cada vez nuestro usuario y contraseña
+1. Configure your github account with SHH key, so as not to put our username and password every time.
+2. Create a new repository called pratica_git_flow.
+3. Create a default README.
+4. Clone our PC
+5. Create a branch called development and make this branch the pricipla, this means that it will not be master
+6. Make a change in the development branch in the README.md file could be "This is the development branch"
+7. Make a commitment in the development branch
+8. Create a named branch functions
+9. Make a change in the features branch in the README.md file can be "This is the features branch"
+10. Make the commit on this branch.
+11. Make the push and verify that the change is in the repository
