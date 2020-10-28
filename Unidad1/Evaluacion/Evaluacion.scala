@@ -1,21 +1,23 @@
-//1-Comienza una simple sesión Spark
-import org.apache.spark.sql.SparkSession //punto de entrada a sparksql
+
+//The first step is to import the library to create an entry point 
+//to sqlspark and thus create a session in spark
+import org.apache.spark.sql.SparkSession 
 val spark = SparkSession.builder().getOrCreate()
 
-//2-.Cargue el archivo Netflix CSV,haga que Spark infiera los tipos de datos
+//2- The next step is to load the Netflix CSV file, with the dataframe df and spark infer the data types
 val df = spark.read.option("header","true").option("inferSchema","true").csv("Netflix_2011_2016.csv")
 
-//3-.Cuáles son los nombres de las columnas
+//3-.In the following instruction it is in charge of showing us the columns with our df followed by the word column
 df.columns
 
-//4-.Cómo es el esquema
-df.printSchema() //caracteristicas de las columnas
+//4-.// It shows us the scheme that are the characteristics of the columns
+df.printSchema() 
 
-//5-.Imprime las primeras 5 columnas
+//5-. It takes care of printing the first 5 columns
 df.head(5) 
 
-//6-.Usa describe() para aprender sobre el DataFrame
-df.describe().show() //devuelve la información de metadatos básica de una función existente.
+//6-.The describes ()returns the basic metadata information of the df
+df.describe().show() 
 
 /*7-.Crea un nuevo dataframe con una columna nueva llamada “HV Ratio” que es la  relación entre el precio 
 de la columna “High” frente a la columna “Volume” de  acciones negociadas por un día. 
@@ -23,14 +25,14 @@ de la columna “High” frente a la columna “Volume” de  acciones negociada
 val df_hv = df.withColumn("HV Ratio",df("High")/df("Volume"))
 df_hv.columns
 
-// 8. ¿Qué día tuvo el pico mas alto en la columna “Close”? 
+// 8. What day had the highest peak in the “Close” column?
 df.orderBy($"High".desc).show(1)
 
 /*9. Escribe con tus propias palabras en un comentario de tu codigo. ¿Cuál es el  significado de la columna
  Cerrar “Close”?*/
 df.select(mean("Close")).show()
 
-// 10. ¿Cuál es el máximo y mínimo de la columna “Volume”?
+// 10. What is the maximum and minimum of the “Volume” column?
 df.select(max("Volume")).show()
 df.select(min("Volume")).show()
 
