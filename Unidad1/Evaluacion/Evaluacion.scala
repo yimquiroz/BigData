@@ -23,7 +23,7 @@ df.head(5)
 //6-.The describes ()returns the basic metadata information of the df
 df.describe().show() 
 
-/*7.- Create a new dataframe whit a new column named "HV_Ratio" who is the relation of the price of "high" columns
+/*7.- Create a new dataframe whit a new column under the name "HV_Ratio", that is the relation of the price of "high" columns
 and "volume" of action negotiated by day */
 val df_hv = df.withColumn("HV Ratio",df("High")/df("Volume"))
 df_hv.columns
@@ -44,7 +44,7 @@ df.select(min("Volume")).show()
 // Sintaxis Scala/Spark
 import spark.implicits._
 
-//a. How many days the column "close" was lowe tha $600?
+//a. Who many days the column "close" was lower than $600?
 df.filter($"Close"<600).count()
 
 //b. Who percentage of the time was the column "High" higher than $500?
