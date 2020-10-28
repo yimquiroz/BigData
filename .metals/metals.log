@@ -6,3 +6,42 @@
 oct 26, 2020 8:46:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFORMACIÓN: Unsupported notification method: $/setTraceNotification
 2020.10.26 21:01:24 INFO  shutting down Metals
+2020.10.27 21:24:17 INFO  started: Metals version 0.9.4 in workspace 'C:\Users\alons\OneDrive\Escritorio\Universidad\Datos Masivos\BigData' for client vscode.
+2020.10.27 21:24:17 INFO  time: initialize in 0.53s
+2020.10.27 21:24:18 WARN  no build tool detected in workspace 'C:\Users\alons\OneDrive\Escritorio\Universidad\Datos Masivos\BigData'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.27 21:24:20 INFO  no build target: using presentation compiler with only scala-library
+2020.10.27 21:24:20 WARN  no build target for: C:\Users\alons\OneDrive\Escritorio\Universidad\Datos Masivos\BigData\Unidad1\Evaluacion\Evaluacion.scala
+2020.10.27 21:27:13 WARN  no build tool detected in workspace 'C:\Users\alons\OneDrive\Escritorio\Universidad\Datos Masivos\BigData'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.27 21:27:13 WARN  no build tool detected in workspace 'C:\Users\alons\OneDrive\Escritorio\Universidad\Datos Masivos\BigData'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.27 21:27:32 WARN  no build tool detected in workspace 'C:\Users\alons\OneDrive\Escritorio\Universidad\Datos Masivos\BigData'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.27 21:27:32 WARN  no build tool detected in workspace 'C:\Users\alons\OneDrive\Escritorio\Universidad\Datos Masivos\BigData'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.27 21:27:32 WARN  no build tool detected in workspace 'C:\Users\alons\OneDrive\Escritorio\Universidad\Datos Masivos\BigData'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.27 21:28:58 WARN  no build tool detected in workspace 'C:\Users\alons\OneDrive\Escritorio\Universidad\Datos Masivos\BigData'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Oct 27, 2020 9:31:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Oct 27, 2020 9:31:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+2020.10.27 21:35:38 WARN  no build tool detected in workspace 'C:\Users\alons\OneDrive\Escritorio\Universidad\Datos Masivos\BigData'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.27 21:45:48 WARN  no build tool detected in workspace 'C:\Users\alons\OneDrive\Escritorio\Universidad\Datos Masivos\BigData'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.27 21:45:48 WARN  no build tool detected in workspace 'C:\Users\alons\OneDrive\Escritorio\Universidad\Datos Masivos\BigData'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.27 21:49:23 WARN  no build tool detected in workspace 'C:\Users\alons\OneDrive\Escritorio\Universidad\Datos Masivos\BigData'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.27 21:49:23 WARN  no build tool detected in workspace 'C:\Users\alons\OneDrive\Escritorio\Universidad\Datos Masivos\BigData'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.27 21:51:23 WARN  no build target for: C:\Users\alons\OneDrive\Escritorio\Universidad\Datos Masivos\Big_Data\Unit_1\Evaluacion.scala
+2020.10.27 21:52:48 WARN  no build tool detected in workspace 'C:\Users\alons\OneDrive\Escritorio\Universidad\Datos Masivos\BigData'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.27 21:52:48 WARN  no build tool detected in workspace 'C:\Users\alons\OneDrive\Escritorio\Universidad\Datos Masivos\BigData'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.27 21:52:56 WARN  no build target for: C:\Users\alons\OneDrive\Escritorio\Universidad\Datos Masivos\Big_Data\Unit_1\Evaluacion.scala
+2020.10.27 21:52:57 WARN  no build tool detected in workspace 'C:\Users\alons\OneDrive\Escritorio\Universidad\Datos Masivos\BigData'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.27 21:52:57 WARN  no build tool detected in workspace 'C:\Users\alons\OneDrive\Escritorio\Universidad\Datos Masivos\BigData'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Oct 27, 2020 9:52:58 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2020.10.27 21:52:57 WARN  no build target for: C:\Users\alons\OneDrive\Escritorio\Universidad\Datos Masivos\BigData\Unidad1\Evaluacion\Evaluacion.scala
+Oct 27, 2020 9:52:58 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: no context found for source-file:///C:/Users/alons/OneDrive/Escritorio/Universidad/Datos%20Masivos/BigData/Unidad1/Evaluacion/Evaluacion.scala,line-2,offset=66
+scala.reflect.internal.FatalError: no context found for source-file:///C:/Users/alons/OneDrive/Escritorio/Universidad/Datos%20Masivos/BigData/Unidad1/Evaluacion/Evaluacion.scala,line-2,offset=66
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:102)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:24)
+
