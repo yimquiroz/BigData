@@ -1,4 +1,4 @@
-//1-.We perform an algorithm to calculate the radius of a circle 
+/////1-.We perform an algorithm to calculate the radius of a circle 
 val a =3
     val r = math.sqrt(a/math.Pi)
 //2. We perform an algorithm to determine if a number is a prime
@@ -20,6 +20,6 @@ mensaje slice (5,9)
 //5. What is the difference between value and a variable in scala?
 val noMutable = 3.1416 
 var Mutable = "Hello world!"
-//6. Given the tuple (2,4,5,1,2,3,3.1416,23) returns the number 3.1416
+//6. Given the tuple (2,4,5,1,2,3,3.1416,23) returns the number 3.1416.
 val tupla=(2,4,5,1,2,3,3.1416,232)
 println(tupla._7)
